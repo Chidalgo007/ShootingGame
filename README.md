@@ -41,7 +41,7 @@ This game showcases:
 
 ## 📁 Folder Structure
 
-📁 dist/
+📁 dist/</br>
 └── space-shooter.jar
 
 
